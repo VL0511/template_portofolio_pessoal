@@ -2,12 +2,9 @@
 
 # Template portofólio pessoal Store Zury
 
-A Store Zury está fornecendo este template gratuito para desenvolvedores que desejam um potfólio.
-Caso não deseja programar seu portfólio, Store Zury trabalha com portfólio, para mais informações consulte o nosso servidor no discord.
+Este é um template para desenvolvedores que querem ter seu site pessoal mais não sabe como iniciar ele, foi utilizado a imagens meramente ilustrativas.
 
 ## Para que server um portfólio?
 
 Um portifólio é um local onde você pode armazenar projetos que você fez. Muitos desenvolvedores tem portfólios no Git, Gitlab ou seu próprio site.
 
-Dev: Zury#6984<br>
-Servidor da loja: https://discord.gg/qBAkFEdNxN
