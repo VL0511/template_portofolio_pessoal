@@ -1,6 +1,6 @@
 ![alt text](https://github.com/VL0511/template_portofolio_pessoal_storeZury/blob/main/bootstrap/img/profile.jpeg)
 
-# Template portofólio pessoal Store Zury
+# Template portofólio pessoal 
 
 Este é um template para desenvolvedores que querem ter seu site pessoal mais não sabe como iniciar ele, foi utilizado a imagens meramente ilustrativas.
 
