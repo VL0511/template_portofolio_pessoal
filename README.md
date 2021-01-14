@@ -1,4 +1,3 @@
-![alt text](https://github.com/VL0511/template_portofolio_pessoal_storeZury/blob/main/bootstrap/img/profile.jpeg)
 
 # Template portofólio pessoal 
 
